@@ -1,7 +1,7 @@
 # Neptune SAP Demo - Optimized Appointment Booking
 
 ## Overview
-Interactive prototype demonstrating an optimized SAP UI for Neptune Technology Group's CCR appointment booking system.
+Interactive prototype demonstrating an optimized SAP UI for CCR appointment booking system.
 
 ## Key Features
 - Universal search (address, FLOC, reference, phone)
