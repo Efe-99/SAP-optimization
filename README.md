@@ -28,6 +28,3 @@ npm install
 npm start
 ```
 
-## Created By
-[Your Name] - Process Optimization Initiative
-Neptune Technology Group - 2024
